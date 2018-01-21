@@ -1,6 +1,4 @@
 # SpartanGym
-Práctica DAD
-
 
 DESCRIPCIÓN DE LA WEB:
 Spartan Gym App es una aplicación web de un gimnasio enfocada a la gestión de las clases impartidas y al seguimiento del usuario en ellas. Cada clase tendrá un límite de plazas en cada sesión. 
