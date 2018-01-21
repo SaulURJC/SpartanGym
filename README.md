@@ -3,7 +3,7 @@
 
 ## DESCRIPCIÓN DE LA WEB:
 
-Spartan Gym App es una aplicación web de un gimnasio enfocada a la gestión de las clases impartidas y al seguimiento del usuario en ellas. Cada clase tendrá un límite de plazas en cada sesión. 
+Spartan Gym App es una aplicación web de un gimnasio enfocada a la gestión de las clases impartidas en él y al seguimiento de los usuarios en ellas por sus entrenadores. 
 
 ### Parte pública:
 
