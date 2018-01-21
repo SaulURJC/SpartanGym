@@ -34,5 +34,5 @@ La aplicación será capaz de gestionar las inscripciones a las clases y el segu
 ## INTEGRANTES:
 
 * José Manuel Pérez Ocampos (jm.perezo@alumnos.urjc.es)
-* Ervi Saúl Loachamin Llumiquinga (@alumnos.urjc.es)
-* Beatriz Redondo Mocho (@alumnos.urjc.es)
+* Ervi Saúl Loachamin Llumiquinga (es.loachamin@alumnos.urjc.es)
+* Beatriz Redondo Mocho (b.redondomo@alumnos.urjc.es)
