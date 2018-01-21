@@ -1,24 +1,38 @@
 # SpartanGym
 
-DESCRIPCIÓN DE LA WEB:
+
+## DESCRIPCIÓN DE LA WEB:
+
 Spartan Gym App es una aplicación web de un gimnasio enfocada a la gestión de las clases impartidas y al seguimiento del usuario en ellas. Cada clase tendrá un límite de plazas en cada sesión. 
--Parte pública: El usuario podrá consultar los horarios, instalaciones y precio del gimnasio. Si estuvieran interesados se podran registrar y apuntar al gimnasio. 
--Parte privada: El usuario podrá consultar los horarios y apuntarse a las clases que desee (yoga, calistenia, spinning, powerlifting, etc). El seguimiento del usuario se basará en un sistema de puntos con los avances en cada una de las clases a las que asista. Los entrenadores podrán poner comentarios en los seguimientos de los usuarios con sus consejos u observaciones.
+
+### Parte pública:
+
+El usuario podrá consultar los horarios, instalaciones y precio del gimnasio. Si estuvieran interesados se podran registrar y apuntar al gimnasio. 
+
+### Parte privada: 
+
+El usuario podrá consultar los horarios y apuntarse a las clases que desee (yoga, calistenia, spinning, powerlifting, etc). El seguimiento del usuario se basará en un sistema de puntos con los avances en cada una de las clases a las que asista. Los entrenadores podrán poner comentarios en los seguimientos de los usuarios con sus consejos u observaciones.
 
 
-ENTIDADES PRINCIPALES:
--Cliente: Usuario con capacidad de apuntarse a clases y observar su evolución.
--Entrenador: Usuario con capacidad de evaluar a alumnos y crear clases.
--Horario: Horario con los días de la semana, las clases y plazas de cada una disponibles.
--Clase: Clase de un determinado deporte con un entrenador y múltiples alumnos. Tiene plazas limitadas.
--Valoración: Comentario y puntuación del entrenador hacia un alumno.
+
+## ENTIDADES PRINCIPALES:
+
+* Cliente: Usuario con capacidad de apuntarse a clases y observar su evolución.
+* Entrenador: Usuario con capacidad de evaluar a alumnos y crear clases.
+* Horario: Horario con los días de la semana, las clases y plazas de cada una disponibles.
+* Clase: Clase de un determinado deporte con un entrenador y múltiples alumnos. Tiene plazas limitadas.
+* Valoración: Comentario y puntuación del entrenador hacia un alumno.
 
 
-SERVICIO INTERNO:
--La aplicación será capaz de gestionar las inscripciones a las clases y el seguimiento. Una vez un usuario se apunte a una clase se le enviará un correo confirmando el dia y la hora a modo de recordatorio.
+
+## SERVICIO INTERNO:
+
+La aplicación será capaz de gestionar las inscripciones a las clases y el seguimiento. Una vez un usuario se apunte a una clase se le enviará un correo confirmando el dia y la hora a modo de recordatorio.
 
 
-INTEGRANTES:
-José Manuel Pérez Ocampos (jm.perezo@alumnos.urjc.es)
-Ervi Saúl Loachamin Llumiquinga (@alumnos.urjc.es)
-Beatriz Redondo Mocho (@alumnos.urjc.es)
+
+## INTEGRANTES:
+
+* José Manuel Pérez Ocampos (jm.perezo@alumnos.urjc.es)
+* Ervi Saúl Loachamin Llumiquinga (@alumnos.urjc.es)
+* Beatriz Redondo Mocho (@alumnos.urjc.es)
