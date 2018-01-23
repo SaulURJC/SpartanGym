@@ -19,8 +19,8 @@ El usuario podrá consultar los horarios y apuntarse a las clases que desee (yog
 
 * Cliente: Usuario con capacidad de apuntarse a clases y observar su evolución.
 * Entrenador: Usuario con capacidad de evaluar a alumnos y crear clases.
-* Horario: Horario con los días de la semana, las clases y plazas de cada una disponibles.
-* Clase: Clase de un determinado deporte con un entrenador y múltiples alumnos. Tiene plazas limitadas.
+* Material: Material necesario para la clase. Si el usuario no dispone de él, puede pedirlo prestado al centro.
+* Clase: Clase de un determinado deporte con un entrenador y múltiples alumnos. Tiene plazas limitadas y hora determinada.
 * Valoración: Comentario y puntuación del entrenador hacia un alumno.
 
 
